@@ -1,1 +1,5 @@
-# y90-1908-preloader
+# Steps
+- clone
+- unzip
+- select scatter
+- flash 
